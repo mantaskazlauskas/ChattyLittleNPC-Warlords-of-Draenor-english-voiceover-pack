@@ -2,7 +2,7 @@
 ## Title: Chatty Little NPC: Warlords of Draenor
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
-## Version: 2.0.1
+## Version: 2.0.2
 ## Dependencies: ChattyLittleNPC
 
 embeds.xml
