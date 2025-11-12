@@ -1,5 +1,5 @@
 ---@class ChattyLittleNpc_Warlords_of_Draenor_voiceovers
-local ChattyLittleNpc_Warlords_of_Draenor_voiceovers = LibStub("AceAddon-3.0"):GetAddon("ChattyLittleNpc_Warlords_of_Draenor_voiceovers")
+local ChattyLittleNpc_Warlords_of_Draenor_voiceovers = _G["ChattyLittleNpc_Warlords_of_Draenor_voiceovers"]
 
 ChattyLittleNpc_Warlords_of_Draenor_voiceovers.Voiceovers = {
     '101759_Gossip_13d91f91db7d69a8de1a9c442015247e.ogg',
