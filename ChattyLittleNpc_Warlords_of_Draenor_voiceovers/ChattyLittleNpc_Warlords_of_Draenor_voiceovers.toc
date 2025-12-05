@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 110207
 ## Title: Chatty Little NPC: Warlords of Draenor
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
