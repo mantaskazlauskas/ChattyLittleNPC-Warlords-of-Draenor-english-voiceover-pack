@@ -30,7 +30,6 @@ jobs:
           cd ChattyLittleNpc_Warlords_of_Draenor_voiceovers
           python generate_voicovers_list_file.py
 
-
       - name: Create Addon ZIP
         run: |
           zip -r "ChattyLittleNpc_Warlords_of_Draenor_voiceovers-${{ github.ref_name }}.zip" ChattyLittleNpc_Warlords_of_Draenor_voiceovers
