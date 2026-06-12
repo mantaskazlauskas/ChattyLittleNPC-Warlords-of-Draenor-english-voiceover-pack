@@ -1,0 +1,8 @@
+package-as: ChattyLittleNpc_Warlords_of_Draenor_voiceovers
+ignore:
+  - release.py
+  - README.md
+  - .vscode
+  - .github
+  - .venv
+  - .luarc.json
